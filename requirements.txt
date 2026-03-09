@@ -1,0 +1,11 @@
+pandas
+requests
+beautifulsoup4
+sentence-transformers
+transformers
+faiss-cpu
+pillow
+streamlit
+torch
+scikit-learn
+ollama
