@@ -1,27 +1,29 @@
 product_name,image_path,lost_description
-A Light in the Attic,dataset/images/item_0.jpg,"""I lost my copy of 'A Light in the Attic' on my way to the cafeteria. It's a small book with a worn cover and my name highlighted in yellow at the top."""
-Tipping the Velvet,dataset/images/item_1.jpg,"""Lost my copy of Tipping the Velvet near the student union building. It has a worn-out cover and a yellow bookmark with a coffee stain."""
-Soumission,dataset/images/item_2.jpg,"""Lost my Soumission folder near the student lounge in the quad. It has a green binder with my name printed on the cover and contains my latest essay submissions."""
-Sharp Objects,dataset/images/item_3.jpg,"""Lost my set of Sharp Objects near the psychology building. It's a collection of pens and pencils with a silver cap and my name engraved on the side."""
-Sapiens: A Brief History of Humankind,dataset/images/item_4.jpg,"""I lost my copy of Sapiens: A Brief History of Humankind near the student union building. It has a yellow cover and a few notes stuck in the margins, and it's really important to me so please return it if you find it!"""
-The Requiem Red,dataset/images/item_5.jpg,"""Lost my The Requiem Red journal near the campus coffee shop, it has a distinctive red cover and a few doodles of guitars in the margins. If found, please return it to the student union desk."""
-The Dirty Little Secrets of Getting Your Dream Job,dataset/images/item_6.jpg,"Here is a short realistic lost item report:
+A Light in the Attic,dataset/images/item_0.jpg,Lost my well-loved copy of A Light in the Attic by Shel Silverstein near the Student Union building. It has a worn-out cover with a faint stain from a spilled coffee.
+Tipping the Velvet,dataset/images/item_1.jpg,"Lost a paperback copy of ""Tipping the Velvet"" near the Student Union building. It has a worn-out cover and a small crease on the top-right corner."
+Soumission,dataset/images/item_2.jpg,Lost my Soumission notebook near the student lounge on the second floor of the student union building. It has a faded pink cover and a spiral binding.
+Sharp Objects,dataset/images/item_3.jpg,Lost a set of Sharp Objects pens near the psychology building. They have a distinctive design with a silver clip and a few of the tips are worn down from heavy use.
+Sapiens: A Brief History of Humankind,dataset/images/item_4.jpg,"Here is a short realistic lost item description:
 
-""Lost my copy of The Dirty Little Secrets of Getting Your Dream Job on my way to the career services office. It has a worn cover and my notes scribbled throughout."""
-"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",dataset/images/item_7.jpg,"""Lost my copy of 'The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull' near the student union building. It has a worn brown cover and a bookmark with a quote from the book."""
-The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,dataset/images/item_8.jpg,"""I lost my copy of The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics near the student union building. It has a worn leather cover and my name embossed on the back cover."""
-The Black Maria,dataset/images/item_9.jpg,"""Lost my Black Maria portable charger near the Student Union building. It's a small black box with a white logo and has my initials 'EM' written on the back."""
-"Starving Hearts (Triangular Trade Trilogy, #1)",dataset/images/item_10.jpg,"""I lost my copy of Starving Hearts by the student lounge yesterday afternoon. It has a worn cover and my name scribbled on the first page."""
-Shakespeare's Sonnets,dataset/images/item_11.jpg,"""I lost my worn copy of Shakespeare's Sonnets in the quad near the statue of the professor. It has a dog-eared corner and my notes scribbled in the margins."""
-Set Me Free,dataset/images/item_12.jpg,"""I lost the 'Set Me Free' journal I was carrying with me near the student union building. It's a small, black notebook with a motivational quote on the cover and some notes and doodles inside."""
-Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),dataset/images/item_13.jpg,"""I lost my copy of Scott Pilgrim's Precious Little Life near the student union building. It's a graphic novel with a black cover and a bunch of scribbles in the margins - pretty recognizable!"""
-Rip it Up and Start Again,dataset/images/item_14.jpg,"""I lost my copy of Rip it Up and Start Again in the student lounge near the music practice rooms. It's a worn-out paperback with a dog-eared page 147 and my notes on the margins."""
-"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",dataset/images/item_15.jpg,"Here's a possible lost item report:
+Lost my copy of Sapiens: A Brief History of Humankind on the quad near the student union building. It has a distinctive yellow cover with a dog-eared page 147."
+The Requiem Red,dataset/images/item_5.jpg,"Lost my favorite highlighter, The Requiem Red, on campus. It has a distinctive red casing with a worn-out tip and a small dent on the side."
+The Dirty Little Secrets of Getting Your Dream Job,dataset/images/item_6.jpg,"Here is a short realistic lost item description:
 
-""Lost my book, 'Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991', near the student union building. It's a hardcover book with a black cover and some notes in the margins."""
-Olio,dataset/images/item_16.jpg,"""Lost my Olio portable charger in the Student Union building, near the coffee shop. It's a small black box with a red strap and my initials 'MJ' engraved on the side."""
-Mesaerion: The Best Science Fiction Stories 1800-1849,dataset/images/item_17.jpg,"Here is a short realistic lost item report:
+Lost a book titled ""The Dirty Little Secrets of Getting Your Dream Job"" near the career services office. It has a bright pink cover with a bookmark stuck between chapters 5-6."
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",dataset/images/item_7.jpg,"Lost: a paperback novel, ""The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"", near the student union building. It has a worn cover with a torn corner and no distinct markings."
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,dataset/images/item_8.jpg,"Here is a short realistic lost item description:
 
-""Lost my copy of Mesaerion: The Best Science Fiction Stories 1800-1849 in the student lounge near the science building. It has a worn cover and my name written in the back."""
-Libertarianism for Beginners,dataset/images/item_18.jpg,"""I lost my copy of 'Libertarianism for Beginners' in the student union building, possibly near the coffee shop. It has a worn-out cover and my name highlighted in yellow on the first page."""
-It's Only the Himalayas,dataset/images/item_19.jpg,"""I lost my copy of It's Only the Himalayas on my way to the student union building. It's a paperback book with a worn-out cover and my name highlighted on the first page."""
+Lost a non-fiction book, ""The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics"", near the student union building. It has a worn cover and my name written inside the front cover."
+The Black Maria,dataset/images/item_9.jpg,Lost my Black Maria portable hard drive near the journalism building. It has a scratched metal exterior and a distinctive blue stripe around the middle.
+"Starving Hearts (Triangular Trade Trilogy, #1)",dataset/images/item_10.jpg,"Lost a paperback book, ""Starving Hearts (Triangular Trade Trilogy, #1)"", on campus. It has a worn cover with a faint coffee stain and the words ""almost halfway through"" scribbled in the margin."
+Shakespeare's Sonnets,dataset/images/item_11.jpg,Lost copy of Shakespeare's Sonnets near the university quad. Has a worn leather cover and a paper bookmark with a torn corner.
+Set Me Free,dataset/images/item_12.jpg,"Lost my copy of ""Set Me Free"" near the Student Union building. It has a worn-out cover with a small tear on the top corner."
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),dataset/images/item_13.jpg,"Here's a short realistic lost item description:
+
+Lost a copy of Scott Pilgrim's Precious Little Life near the student union building. It has a worn cover with a torn corner and my initials ""EM"" stamped on the first page."
+Rip it Up and Start Again,dataset/images/item_14.jpg,"Lost a worn out copy of ""Rip it Up and Start Again"" near the student union building. The book has a cracked spine and a sticker on the cover with a faint smiley face."
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",dataset/images/item_15.jpg,"Lost: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 book near the student union building. It has a worn cover and a few notes in the margins, but the cover art of Sonic Youth is still intact."
+Olio,dataset/images/item_16.jpg,"Lost my Olio lip balm on the quad near the student union building. It's a small, clear tube with a white cap and a faint scent of citrus."
+Mesaerion: The Best Science Fiction Stories 1800-1849,dataset/images/item_17.jpg,"Lost on campus: ""Mesaerion: The Best Science Fiction Stories 1800-1849"" near the student union building. It has a worn red cover with a torn corner and my name scribbled on the first page."
+Libertarianism for Beginners,dataset/images/item_18.jpg,"Lost a paperback copy of ""Libertarianism for Beginners"" near the student union building. The book has a yellow cover and a small note on the inside cover with my name and contact information."
+It's Only the Himalayas,dataset/images/item_19.jpg,"Lost my book ""It's Only the Himalayas"" on campus, last seen near the student union building. It has a worn-out cover with a faded map of the Himalayas and a few dog-eared pages."
