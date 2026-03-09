@@ -240,43 +240,138 @@ lost-found-reunion-progress-project
 
 # 🚀 How to Run the Project
 
-## 1️⃣ Install dependencies
+Follow these steps to run the project from scratch.
 
+---
+
+## 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/SahanaPatil17/progress-project-lost-found-reunion.git
+cd progress-project-lost-found-reunion
 ```
+
+---
+
+## 2️⃣ Install Dependencies
+
+Install all required Python libraries.
+
+```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-## 2️⃣ Start Ollama
+## 3️⃣ Start the Local LLM (Ollama)
+
+The project uses **Llama3 via Ollama** to generate descriptions and explanations.
+
+Start the model:
+
+```bash
+ollama run llama3
+```
+
+Keep this terminal **running** while using the project.
+
+---
+
+# ⚙️ Data Pipeline (Run Once)
+
+The following scripts build the dataset and vector database.
+
+Run them **in this order**.
+
+---
+
+## 4️⃣ Scrape Product Data
+
+This script scrapes product names and images from a sample website and saves them locally.
+
+```bash
+python scrape_products.py
+```
+
+Output created:
 
 ```
-ollama run llama3
+dataset/scraped_products.csv
+dataset/images/
 ```
 
 ---
 
-## 3️⃣ Run the Streamlit app
+## 5️⃣ Generate Lost Item Descriptions
+
+This script uses **Llama3** to generate realistic lost item descriptions based on product names.
+
+```bash
+python generate_lost_descriptions.py
+```
+
+Output created:
 
 ```
+dataset/lost_found_dataset.csv
+```
+
+Each record now contains:
+
+* product_name
+* lost_description
+* image_path
+
+---
+
+## 6️⃣ Build Embeddings and Vector Database
+
+This script generates:
+
+* **Text embeddings** using Sentence Transformers
+* **Image embeddings** using CLIP
+* **FAISS vector database** for semantic search
+
+```bash
+python build_embeddings.py
+```
+
+Output created:
+
+```
+vector.index
+data.pkl
+```
+
+---
+
+# 🖥 Running the Search Application
+
+After building the dataset and embeddings, start the UI.
+
+---
+
+## 7️⃣ Launch the Streamlit Application
+
+```bash
 python -m streamlit run app.py
 ```
 
-Open:
+Open in your browser:
 
 ```
 http://localhost:8501
 ```
 
+You can now search for lost items using natural language.
+
 ---
 
-# 🌍 Remote Demo (ngrok)
+# 🌍 Optional: Remote Access with ngrok
 
-To allow remote access during evaluation, the Streamlit app can be exposed using **ngrok**.
+To allow external users to access the application:
 
-Run:
-
-```
+```bash
 ngrok http 8501
 ```
 
@@ -286,17 +381,26 @@ Example output:
 https://abcd1234.ngrok-free.app
 ```
 
-This public URL allows external users to access the application.
+Share this link to access the application remotely.
 
 ---
 
 # 🔎 Example Queries
+
+Try searching with:
 
 ```
 lost paperback book with notes
 lost poetry book near library
 lost study book with bookmark
 ```
+
+The system will return:
+
+* matching item images
+* descriptions
+* confidence scores
+* AI explanations
 
 ---
 
@@ -337,8 +441,3 @@ If more time were available, the following improvements could be added:
 
 ---
 
-# 👨‍💻 Author
-
-**Sahana Patil**
-
-Progress Project – Lost & Found Reunion
